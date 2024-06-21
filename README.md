@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-![Home Page](https://github.com/yourusername/Fooditlikeit/blob/main/assets/homepage.png)
+![Home Page](https://drive.google.com/file/d/1bfa0ksfKQx9zCLL1gj-qDYyArM9c84ok/view?usp=drive_link)
 *Home Page of Fooditlikeit*
 
 ![Menu Page](https://github.com/yourusername/Fooditlikeit/blob/main/assets/menu.png)
@@ -26,6 +26,8 @@
 
 ![Order Online](https://github.com/yourusername/Fooditlikeit/blob/main/assets/order.png)
 *Online ordering interface*
+
+![Order Online](https://github.com/yourusername/Fooditlikeit/blob/main/assets/order.png)
 
 ## Installation
 

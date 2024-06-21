@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-![Home Page](https://drive.google.com/file/d/1bfa0ksfKQx9zCLL1gj-qDYyArM9c84ok/view?usp=drive_link)
+![Home Page](https://github.com/GauravAnand30/Task1/blob/main/Screenshots/Screenshot%202024-06-21%20140202.png)
 *Home Page of Fooditlikeit*
 
 ![Menu Page](https://github.com/yourusername/Fooditlikeit/blob/main/assets/menu.png)
